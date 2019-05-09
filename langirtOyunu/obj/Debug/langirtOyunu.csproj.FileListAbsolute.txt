@@ -1,0 +1,22 @@
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\bin\Debug\langirtOyunu.exe.config
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\bin\Debug\langirtOyunu.exe
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\bin\Debug\langirtOyunu.pdb
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.csprojResolveAssemblyReference.cache
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.AnaMenu.resources
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.Properties.Resources.resources
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.csproj.GenerateResource.Cache
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.exe
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.pdb
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.Kontroller.resources
+c:\users\bekom\onedrive\belgeler\visual studio 2013\Projects\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.YeniOyun.resources
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\bin\Debug\langirtOyunu.exe.config
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.exe
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.pdb
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\bin\Debug\langirtOyunu.exe
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\bin\Debug\langirtOyunu.pdb
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.csprojResolveAssemblyReference.cache
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.AnaMenu.resources
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.Kontroller.resources
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.Properties.Resources.resources
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.YeniOyun.resources
+C:\Users\bekom\Desktop\langirtOyunu\langirtOyunu\obj\Debug\langirtOyunu.csproj.GenerateResource.Cache
